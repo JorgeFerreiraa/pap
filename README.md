@@ -21,5 +21,6 @@ This project was my first major experience working on a complete digital product
 It allowed me to strengthen my technical skills, practice problem-solving, and understand the workflow of building a real-world web application.
 
 
+[Manual_utilizador.pdf](https://github.com/user-attachments/files/22617938/Manual_utilizador.pdf)
 
 
