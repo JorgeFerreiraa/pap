@@ -32,3 +32,10 @@ It helped me to:
 ---
 
 📄 [User Manual (PDF)](https://github.com/user-attachments/files/22617938/Manual_utilizador.pdf)
+
+---
+
+📫 Contact
+
+GitHub: [Jorge Ferreira](https://github.com/JorgeFerreiraa) <br>
+LinkedIn: [Jorge Ferreira](https://www.linkedin.com/in/jorge-ferreira-015668311/)
